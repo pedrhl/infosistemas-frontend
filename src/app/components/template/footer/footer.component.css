@@ -1,0 +1,17 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+
+  display: flex;
+  justify-content: flex-end;
+}
+
+a {
+  color: #f1c40f;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.footer > span {
+  font-size: 14px;
+}
